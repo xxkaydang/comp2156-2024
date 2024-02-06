@@ -4,7 +4,8 @@
   "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: no ci configured\""  
   },
   "keywords": [],
   "author": "Dang Huy Hoang",
